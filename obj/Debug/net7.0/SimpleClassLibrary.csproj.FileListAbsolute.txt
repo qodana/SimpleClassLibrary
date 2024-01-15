@@ -1,0 +1,11 @@
+/data/project/bin/Debug/net7.0/SimpleClassLibrary.deps.json
+/data/project/bin/Debug/net7.0/SimpleClassLibrary.dll
+/data/project/bin/Debug/net7.0/SimpleClassLibrary.pdb
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.AssemblyInfoInputs.cache
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.AssemblyInfo.cs
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.csproj.CoreCompileInputs.cache
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.dll
+/data/project/obj/Debug/net7.0/refint/SimpleClassLibrary.dll
+/data/project/obj/Debug/net7.0/SimpleClassLibrary.pdb
+/data/project/obj/Debug/net7.0/ref/SimpleClassLibrary.dll
